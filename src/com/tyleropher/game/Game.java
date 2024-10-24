@@ -2,7 +2,6 @@ package com.tyleropher.game;
 
 import com.tyleropher.game.classes.EntityA;
 import com.tyleropher.game.classes.EntityB;
-import com.tyleropher.game.libs.AudioLoader;
 
 import javax.sound.sampled.Clip;
 import javax.swing.*;
